@@ -2,8 +2,8 @@
 <br/>
 [✅] HTML<br/>
 <br/>
-[&nbsp;] CSS<br/>
+[&nbsp; ] CSS<br/>
 <br/>
-[&nbsp;] JAVASCRIPT<br/>
+[&nbsp; ] JAVASCRIPT<br/>
 <br/>
 ==============================<br/>
