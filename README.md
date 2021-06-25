@@ -1,6 +1,6 @@
 # PURPOSE
 <br/>
-Learn<br/>
+LEARN<br/>
 <br/>
 [✅] HTML<br/>
 <br/>
