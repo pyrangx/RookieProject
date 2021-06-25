@@ -1,6 +1,6 @@
 # PURPOSE
 <br/>
-!<https://github.com/goodjack/developer-roadmap-chinese>
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/goodjack/developer-roadmap-chinese)
 <br/>
 LEARN<br/>
 <br/>
