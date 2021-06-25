@@ -1,3 +1,6 @@
-# purpose
+# PURPOSE
 <br/>
-# []
+==============================
+[ ] HTML
+[ ] CSS
+[ ] JAVASCRIPT
