@@ -1,6 +1,6 @@
 # PURPOSE
 <br/>
-<https://github.com/goodjack/developer-roadmap-chinese>
+!<https://github.com/goodjack/developer-roadmap-chinese>
 <br/>
 LEARN<br/>
 <br/>
