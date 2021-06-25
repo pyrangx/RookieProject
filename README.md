@@ -1,6 +1,7 @@
 # PURPOSE
 <br/>
 ==============================<br/>
-[ ] HTML
-[ ] CSS
-[ ] JAVASCRIPT
+<br/>
+[ ] HTML<br/>
+[ ] CSS<br/>
+[ ] JAVASCRIPT<br/>
