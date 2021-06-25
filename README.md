@@ -7,6 +7,9 @@
 
  1. [developer-roadmap](https://github.com/goodjack/developer-roadmap-chinese) <br/>
 
+    - [roadmap](https://raw.githubusercontent.com/goodjack/developer-roadmap-chinese/master/chinese-version/img/frontend.png)
+
+
 <br/>
 
  2. [developer-roadmap](https://github.com/goodjack/developer-roadmap-chinese) <br/>
@@ -15,7 +18,6 @@
 
  3. [developer-roadmap](https://github.com/goodjack/developer-roadmap-chinese) <br/>
 
-https://raw.githubusercontent.com/goodjack/developer-roadmap-chinese/master/chinese-version/img/frontend.png
 
 <br/>
 <br/>
