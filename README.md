@@ -1,9 +1,9 @@
 # PURPOSE
 <br/>
-[ ] HTML<br/>
+[✅] HTML<br/>
 <br/>
-[ ] CSS<br/>
+[&nbsp;] CSS<br/>
 <br/>
-[ ] JAVASCRIPT<br/>
+[&nbsp;] JAVASCRIPT<br/>
 <br/>
 ==============================<br/>
