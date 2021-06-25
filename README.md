@@ -6,15 +6,15 @@
  - [developer-roadmap](https://github.com/goodjack/developer-roadmap-chinese) 
 
 <br/>
-LEARN<br/>
+###LEARN<br/>
 <br/>
-[✅] HTML<br/>
+ - [✅] HTML<br/>
 <br/>
-[&nbsp; ] CSS<br/>
+ - [&nbsp; ] CSS<br/>
 <br/>
-[&nbsp; ] JAVASCRIPT<br/>
+ - [&nbsp; ] JAVASCRIPT<br/>
 <br/>
-[&nbsp; ] MongoDB<br/>
+ - [&nbsp; ] MONGODB<br/>
 
 
 
